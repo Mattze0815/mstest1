@@ -1,6 +1,6 @@
-Hello team! Welcome to our git training and test directory! Edit read me
+Hello world!
 
-Jan has changed
+The world is big, but space is bigger.
 
 Cheers,
-Mattze
+Cpt. Kirk
