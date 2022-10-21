@@ -1,0 +1,3 @@
+[submodule "ms-submodule-test1"]
+	path = ms-submodule-test1
+	url = https://github.com/Mattze0815/ms-submodule-test1.git
